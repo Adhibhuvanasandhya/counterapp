@@ -38,7 +38,7 @@ Follow these steps to run the app locally:
    npm start
    ```
 
-The app will be available at [http://localhost:3000](http://localhost:3000).
+The app will be available at https://counterapp-kappa-dun.vercel.app/
 
 ## 🤝 Contributing
 
@@ -47,4 +47,5 @@ Feel free to fork this repository and submit pull requests. Any suggestions or i
 ## 📄 License
 
 This project is open-source and available under the **MIT License**.
+
 
