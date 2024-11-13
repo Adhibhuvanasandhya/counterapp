@@ -1,0 +1,85 @@
+body{
+    background-image: url(https://e0.pxfuel.com/wallpapers/954/592/desktop-wallpaper-background-math-math-math-maths-games.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+
+}
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 50px;
+    
+  }
+  
+  h1 {
+    margin: 0;
+    font-weight:bolder;
+    font-size:60px;
+    background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(212, 4, 4));
+    background-clip: text;
+            -webkit-text-fill-color: transparent;
+  }
+  
+  .app > * {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .counter-value {
+    margin-top: 23px;
+    color: #2d2d2d;
+    font-size: 30px;
+  }
+  
+  .buttons {
+    margin: 0 auto;
+    margin-top: 23px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    font-size: 21px;
+    background-color: #2c2f3d;
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.75;
+  }
+  .reset{
+    border-radius: 10px;
+    width: 75px;
+    background-color: #0BCD4D;
+  }
+  
+.history-list {
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid;
+    padding: 10px;
+  }
+  
+  .history-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .history-list li {
+    padding: 5px 0;
+  }
+  
