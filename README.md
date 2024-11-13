@@ -40,6 +40,8 @@ Follow these steps to run the app locally:
 
 The app will be available at https://counterapp-kappa-dun.vercel.app/
 
+Linkedin :https://www.linkedin.com/posts/adhibhuvanasandhya_reactjs-javascript-frontenddevelopment-activity-7262379930716413952-MIJD?utm_source=share&utm_medium=member_desktop
+
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests. Any suggestions or improvements are welcome!
